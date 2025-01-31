@@ -1,4 +1,4 @@
-# 🏗️ Text Clustering using K-Means
+# 🏗️ Document Clustering using K-Means
 
 ## 📜 Overview  
 This project performs **unsupervised clustering** on a subset of the **20 Newsgroups dataset**, which contains **2,500 documents** belonging to one of five categories:  
